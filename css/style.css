@@ -1,0 +1,22 @@
+body{
+    font-family: 'Roboto Slab', serif;
+}
+header{
+    min-height: 100vh;
+    background-image:  url(../images/bg11.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.nav-item{
+    margin: 0 15px;
+}
+.nav-link{
+    font-size: 1.2rem;
+}
+.navbar{
+    /*border-bottom: solid 4px #5aa7b7b3 ;*/
+    box-shadow: 0 3px 10px rgba(25, 32, 33, 0.7);
+}
+.clients img{
+    margin-top: -60px;
+}
